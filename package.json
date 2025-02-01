@@ -1,0 +1,14 @@
+{
+  "name": "vulkan-node-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zakhaev26/vulkan-node-test.git",
+  "author": "Soubhik Kumar Gon <b422056@iiit-bh.ac.in>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
